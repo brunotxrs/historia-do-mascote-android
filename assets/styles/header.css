@@ -1,0 +1,31 @@
+    header {
+    width: 100%;
+    display: block;
+    background-image: linear-gradient(to top, rgba(42,51,38,1) 0%, rgba(107,140,91,1) 50%, rgba(107,140,91,1) 100%);
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    padding: 1.25rem 0.5rem  2.5rem 0.5rem ; 
+
+    & h1 {
+        width: 100%;
+        color: var(--fifth);
+        font-size: 3em;
+        margin: 0;
+        padding: 0.5em;
+        text-align: center;
+        font-family: var(--font-destaque);
+        text-shadow: 2px 2px 2px var(--fourth);
+
+    }
+
+    & p {
+        width: 100%;
+        color: var(--fifth);
+        font-size: 1em;
+        margin: 0;
+        padding: 0.5em;
+        text-align: center;
+    }
+}
+
