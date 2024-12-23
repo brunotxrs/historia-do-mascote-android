@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+@font-face {
+  font-family: "Android";
+  src: url('../font/IDroid.otf') format('opentype');
+  font-weight: normal;
+
+}
+
+:root { 
+  /* Simbolo pra listas */
+  --simbolo: "👉🏻";
+
+  /* colors */
+  --first: #b0f4909d;
+  --second: #50594C;
+  --third: #6B8C5B;
+  --fourth: #2A3326;
+  --fifth: #f2f2f2;
+
+  /* fonts */
+  --texts: arial, verdana, Helvetica, sans-serif;
+  --font-destaque: "Bebas Neue", serif;
+  --title: "Android";
+}
+
+
+body {
+  background: var(--first) ;
+  font-family: var(--texts);
+  
+}
