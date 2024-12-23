@@ -1,0 +1,27 @@
+nav {
+    
+    background-image: 
+    linear-gradient(to top, 
+    rgba(42,51,38,1) 100%,
+    rgba(107,140,91,1) 0%,
+    rgba(107,140,91,1) 0%);
+    display: flex;
+    justify-content: space-around;
+    padding: 0.625rem 0 0.625rem 0;
+
+    & a {
+        color: var(--fifth);
+        text-decoration: none;
+        font-size: 0.9rem;
+        font-weight: regular;
+        padding: 2px 0.625rem 2px 0.625rem;
+        
+    }
+
+    & a:hover{
+        background-color: var(--first);
+        border-top-left-radius: .3125rem;
+        border-top-right-radius: .3125rem;
+        text-decoration: underline;
+    }
+}
