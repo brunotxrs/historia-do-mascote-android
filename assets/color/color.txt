@@ -1,0 +1,5 @@
+--first:#b0f490;
+--second: #50594C;
+--third: #6B8C5B;
+--fourth: #2A3326;
+--fifth: #23331C;
