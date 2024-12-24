@@ -52,7 +52,7 @@ Projeto criado durante o desafio do **Curso em Vídeo**, com o objetivo de forta
 </p>
 
 ## 👨🏻‍💻 **Acesse o projeto finalizado**
- [Como Surgiu o Mascote do Android - online](https://brunotxrs.github.io/historia-do-mascote-android/)
+ [Como Surgiu o Mascote do Android - online](https://github.com/brunotxrs/historia-do-mascote-android)
 
 
 ## 🏆 **Motivação e Aprendizado**
