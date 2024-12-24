@@ -42,7 +42,7 @@ Projeto criado durante o desafio do **Curso em Vídeo**, com o objetivo de forta
 ## 🚀 **Como Executar o Projeto**
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/brunotxrs/como-surgiu-o-mascote-do-android.git
+   git clone https://github.com/brunotxrs/historia-do-mascote-android
 
 2. Abra o arquivo index.html no navegador de sua preferência para visualizar o projeto.
 
