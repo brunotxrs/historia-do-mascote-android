@@ -5,14 +5,14 @@
     align-items: center;
     justify-content: center;
     margin: 0;
-    padding: 1.25rem 0.5rem  2.5rem 0.5rem ; 
+    padding: 1.25rem 0.3rem  2.5rem 0.3rem ; 
 
     & h1 {
         width: 100%;
         color: var(--fifth);
-        font-size: 5em;
+        font-size: 4.5em;
         margin: 0;
-        padding: 0.5em;
+        padding: 0.3em 0.1em;
         text-align: center;
         font-family: var(--font-destaque);
         text-shadow: 2px 2px 2px var(--fourth);
@@ -22,7 +22,7 @@
     & p {
         width: 100%;
         color: var(--fifth);
-        font-size: 1.3em;
+        font-size: 1.2em;
         margin: 0;
         padding: 0.5em;
         text-align: center;

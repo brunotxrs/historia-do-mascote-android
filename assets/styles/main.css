@@ -86,6 +86,7 @@ main {
     }
 
     & aside {
+        width: 100%;
         background-color: var(--third);
         border-radius: 0.625rem;
         margin-bottom: 1.25rem;
