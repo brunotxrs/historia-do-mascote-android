@@ -8,12 +8,13 @@ nav {
     display: flex;
     justify-content: space-around;
     padding: 0.625rem 0 0.625rem 0;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
 
     & a {
         color: var(--fifth);
         text-decoration: none;
         font-size: 0.9rem;
-        font-weight: regular;
+        font-weight: bold;
         padding: 2px 0.625rem 2px 0.625rem;
         
     }

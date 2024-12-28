@@ -22,12 +22,16 @@ main {
         font-family: var(--text);
         margin-bottom: 0.625rem;
         width: 100%;
+        text-indent: 1rem;
+        text-align: justify; 
+        line-height: 1.3em;
     }
 
     & article > img {
         width: 100%;
         margin: 0.625rem auto 0.625rem auto;
-        border-radius: 0.625rem;        
+        border-radius: 0.625rem;   
+            
     }
 
     & .pequena {
@@ -85,6 +89,7 @@ main {
         background-color: var(--third);
         border-radius: 0.625rem;
         margin-bottom: 1.25rem;
+        box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.281);
 
         & h2 {
             background-color: var(--fourth);
@@ -105,6 +110,9 @@ main {
             padding: 0 0.9375rem;
             margin: 0;
             width: 100%;
+            text-indent: 1rem;
+            text-align: justify;
+            line-height: 1.3em;
         }
 
         & ul {
@@ -116,7 +124,8 @@ main {
             align-items: center;
             font-size: .9rem;
             padding: 1.25rem 1.5625rem; 
-            list-style-type:  var(--simbolo);
+            list-style-position: inside;
+            list-style-type: '\1F449\00A0\00A0';
             margin-bottom: 0.3125rem;
                
         }

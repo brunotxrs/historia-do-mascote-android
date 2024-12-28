@@ -10,7 +10,7 @@
     & h1 {
         width: 100%;
         color: var(--fifth);
-        font-size: 3em;
+        font-size: 5em;
         margin: 0;
         padding: 0.5em;
         text-align: center;
@@ -22,10 +22,12 @@
     & p {
         width: 100%;
         color: var(--fifth);
-        font-size: 1em;
+        font-size: 1.3em;
         margin: 0;
         padding: 0.5em;
         text-align: center;
+        text-shadow: 2px 2px 2px var(--fourth);
+
     }
 }
 
